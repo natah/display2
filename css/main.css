@@ -1,0 +1,27 @@
+p{
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    padding: 40px;
+    margin: 20px;
+    
+}
+
+div{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 100px;
+    padding: 40px;
+    margin: 20px;
+}
+
+.lastbox{
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    height: 100px;
+    padding: 40px;
+    margin: 20px;
+
+}
